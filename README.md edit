@@ -32,3 +32,5 @@
    for the development, you can run e.g. `update.py --only-repos core` to import
    only man pages from the core repository (the smallest one, download size is
    about 160 MB) or even `update.py --only-packages coreutils man-pages`.
+by andronuxx 
+Thanks
